@@ -26,7 +26,7 @@
 | Baemin      | 2.6 s                  | 6.0 s       | 4.3 s                    | 4.7 s               | 0.4 s               | 0.066 s                 |
 | NaverMap    | 2.3 s                  | 6.2 s       | 5.9 s                    | 5.8 s               | 0.32 s              | 0.017 s                 |
 | KakaoMap    | 2.5 s                  | 7.1 s       | 7.0 s                    | 5.1 s               | 0.9 s               | 0.005 s                 |
-| 목표 평균치 | 2.466 s                | 6.43 s      | 5.73 s                   | 5.2 s               | 1.62 s              | 0.029 s                 |
+| 목표 평균치 | 2.466 s                | 6.43 s      | 5.73 s                   | 5.2 s               | 0.32 s              | 0.029 s                 |
 
 `개선 우선순위: First Contentful Paint > Largest Contentful Paint > Speed Index > Time to Interactive`
 
